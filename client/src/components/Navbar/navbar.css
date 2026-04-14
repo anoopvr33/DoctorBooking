@@ -1,0 +1,14 @@
+.navbar {
+  background-color: rgb(210, 187, 187);
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+  padding-right: 20px;
+  height: 30px;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}

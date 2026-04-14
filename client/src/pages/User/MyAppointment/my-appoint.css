@@ -1,0 +1,17 @@
+.user-appointment-container {
+  display: flex;
+  gap: 10px;
+  margin: 40px;
+}
+
+.pdf-download {
+  position: absolute;
+  right: 10px;
+  bottom: 5px;
+  color: blue;
+  cursor: pointer;
+}
+
+.pdf-download:hover {
+  text-decoration: underline;
+}

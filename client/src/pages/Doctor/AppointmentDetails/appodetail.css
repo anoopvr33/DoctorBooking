@@ -1,0 +1,23 @@
+.details-container {
+  display: flex;
+  gap: 20px;
+  margin: 30px 50px;
+}
+
+.patient {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 50%;
+}
+
+.patient img {
+  width: 200px;
+}
+
+.prescription-from {
+  margin: 40px auto;
+  border-radius: 10px;
+  background-color: aqua;
+  width: 400px;
+}

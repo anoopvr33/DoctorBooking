@@ -1,0 +1,14 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+}
+
+.home button {
+  font-size: 16px;
+  color: aqua;
+  border: none;
+  padding: 7px;
+  background-color: blue;
+  margin: 30px;
+}
